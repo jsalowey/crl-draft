@@ -43,7 +43,7 @@ TODO Abstract
 
 # Introduction
 
-TODO Introduction
+Introduction
 
 
 # Conventions and Definitions
