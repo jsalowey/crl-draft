@@ -23,7 +23,7 @@ title: "Compressed CRLs"
 abbrev: "Compressed CRLs"
 category: info
 
-docname: draft-peddada-crlplus
+docname: draft-peddada-crlplus-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
